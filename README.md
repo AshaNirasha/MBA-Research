@@ -10,7 +10,7 @@ Two methods:
   1. with feature vectors
   2. with stylistic features
 
-Four algorithms are checked in the both mehods.
+Four algorithms are checked in the both methods.
 
   1. One class SVM
   2. Naive Bayes
